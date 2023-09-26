@@ -20,6 +20,6 @@ Eğer benimle iletişime geçmek isterseniz, aşağıdaki platformlardan herhang
 - 🔗 LinkedIn: https://www.linkedin.com/in/ilke-yenel-9a8680271/
 
 
-Bu GitHub profili, çalışmalarımı ve ilerlememi izlemek için bir pencere sunuyor. Proje depolarımı inceleyebilir, geri bildirimde bulunabilir veya işbirliği tekliflerini düşünebilirsiniz.
+Bu GitHub profili, çalışmalarımı ve ilerlememi izlemek için bir pencere sunuyor. Proje repolarımı inceleyebilir, geri bildirimde bulunabilir veya işbirliği tekliflerini düşünebilirsiniz.
 
 Teşekkür ederim ki bu sayfayı ziyaret ettiniz. Daha fazla bilgi edinmek ve benimle iletişime geçmek için her zaman buradayım! 😊
